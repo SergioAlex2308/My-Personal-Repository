@@ -5,25 +5,18 @@
 > I am a multimedia engineer with experience in frontend development and interface design. I have worked with web technologies like ReactJS, VueJS, and Bootstrap, as well as tools such as Sass and Tailwind CSS. I have also created views, design systems, and prototypes in Figma. Thanks to my studies, I have developed skills to create digital content with a critical and objective vision, which I apply in my projects.
 > 
 
-![DSC_1524.jpg](Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/DSC_1524.jpg)
-
 ## Contact
 
 ---
 
 <aside>
-<img src="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/281769.png" alt="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/281769.png" width="40px" /> semartinezc23@gmail.com
-
+### Email
+semartinezc23@gmail.com
 </aside>
 
 <aside>
-<img src="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/174857.png" alt="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/174857.png" width="40px" /> sergio-martinez-cardenas
-
-</aside>
-
-<aside>
-<img src="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/25231.png" alt="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/25231.png" width="40px" /> SergioAlex2308
-
+### LinkedIn
+sergio-martinez-cardenas
 </aside>
 
 ## Education
@@ -82,38 +75,33 @@ Multimedia Engineer | 2018 - 2022
 </aside>
 
 <aside>
-<img src="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/JavaScript-logo.png" alt="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/JavaScript-logo.png" width="40px" /> JavaScript
+✅ JavaScript
+</aside>
+
+<aside>
+✅ React.JS
+</aside>
+
+<aside>
+✅ Vue.JS
+</aside>
+
+<aside>
+✅ Figma
+</aside>
+
+<aside>
+✅ Suite Adobe
 
 </aside>
 
 <aside>
-<img src="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/React-icon.svg.png" alt="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/React-icon.svg.png" width="40px" /> React.JS
+✅ Sass
 
 </aside>
 
 <aside>
-<img src="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/Vue.js_Logo_2.svg.png" alt="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/Vue.js_Logo_2.svg.png" width="40px" /> Vue.JS
-
-</aside>
-
-<aside>
-<img src="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png" alt="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png" width="40px" /> Figma
-
-</aside>
-
-<aside>
-<img src="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/download.png" alt="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/download.png" width="40px" /> Suite Adobe
-
-</aside>
-
-<aside>
-<img src="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/seal-color-aef0354c.png" alt="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/seal-color-aef0354c.png" width="40px" /> Sass
-
-</aside>
-
-<aside>
-<img src="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd.png" alt="Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd.png" width="40px" /> Php
-
+✅ Php
 </aside>
 
 ## Languages
@@ -122,12 +110,10 @@ Multimedia Engineer | 2018 - 2022
 
 <aside>
 🇨🇴 Spanish (Native)
-
 </aside>
 
 <aside>
 🇺🇸 English (B1 - Intermediate)
-
 </aside>
 
 ## Projects
@@ -179,9 +165,3 @@ Feb. 2022 - May. 2022 | UMNG
     - React 18.2.0
     - Sass 1.58.0
     - Figma
-
-## Certifications
-
----
-
-[Certifications.pdf](Sergio%20Marti%CC%81nez%2007fcf80a2794433c998db23609a83acd/Certifications.pdf)
