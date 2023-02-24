@@ -1,8 +1,7 @@
-# Sergio Martínez
 
 # Frontend Dev - UI Designer
 
-> I am a multimedia engineer with experience in frontend development and interface design. I have worked with web technologies like ReactJS, VueJS, and Bootstrap, as well as tools such as Sass and Tailwind CSS. I have also created views, design systems, and prototypes in Figma. Thanks to my studies, I have developed skills to create digital content with a critical and objective vision, which I apply in my projects.
+> Hey there! 😁 I am a multimedia engineer with experience in frontend development and interface design. I have developed skills to create digital content with a critical and objective vision, which I apply in my projects.
 > 
 
 ## Contact
