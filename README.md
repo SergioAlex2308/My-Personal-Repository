@@ -9,13 +9,13 @@
 
 ---
 
-<aside>
 ### Email
+<aside>
 semartinezc23@gmail.com
 </aside>
 
-<aside>
 ### LinkedIn
+<aside>
 sergio-martinez-cardenas
 </aside>
 
