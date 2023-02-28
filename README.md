@@ -1,5 +1,4 @@
-
-# Frontend Developer - UI Designer
+<img src="https://github.com/SergioAlex2308/SergioAlex2308/blob/main/Banner.png" alt= “Banner”>
 
 > Hey there! 😁 I am a multimedia engineer with experience in frontend development and interface design. I have developed skills to create digital content with a critical and objective vision, which I apply in my projects. Using libraries such as ReactJS and VueJS.
 
