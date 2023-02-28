@@ -16,30 +16,28 @@
 
 ## 📄 Featured projects
 
-### Ferriel Web
-*Feb. 2022 - May. 2022 | UMNG*
+>### Ferriel Web
+>*Feb. 2022 - May. 2022 | UMNG*
+>
+><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4a7554150069589.62f317d98b6c5.jpg" alt= “” width="20%">
+>
+>- Virtual Museum developer, implementing 3D elements, animations and user interactions.
+>- ***Tech Stack:***
+>    - ⭐ *VueJS 2.6.11*
+>    - ⭐ *ThreeJS 0.139.2*
+>#### Here you can see the [repository](https://github.com/SergioAlex2308/ProyectoFerriel2.0-Aplicaciones).
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4a7554150069589.62f317d98b6c5.jpg" alt= “” width="20%">
-
-- Virtual Museum developer, implementing 3D elements, animations and user interactions.
-- ***Tech Stack:***
-    - ⭐ *VueJS 2.6.11*
-    - ⭐ *ThreeJS 0.139.2*
-
-#### Here you can see the [repository](https://github.com/SergioAlex2308/ProyectoFerriel2.0-Aplicaciones).
-
-### ToDo Machine
-*2023 | Platzi*
-
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/7d564b164340927.63f52bbf59bac.png" alt= “” width="20%">
-
-- Frontend Developer and UI designer making use responsive design.
-- ***Tech Stack:***
-    - ⭐ *React 18.2.0*
-    - ⭐ *Sass 1.58.0*
-    - ⭐ *Figma*
-
-#### Here you can see the [repository](https://github.com/SergioAlex2308/ToDo-List-React).
+>### ToDo Machine
+>*2023 | Platzi*
+>
+><img src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/7d564b164340927.63f52bbf59bac.png" alt= “” width="20%">
+>
+>- Frontend Developer and UI designer making use responsive design.
+>- ***Tech Stack:***
+>    - ⭐ *React 18.2.0*
+>    - ⭐ *Sass 1.58.0*
+>    - ⭐ *Figma*
+>#### Here you can see the [repository](https://github.com/SergioAlex2308/ToDo-List-React).
 
 
 ## Contact 
