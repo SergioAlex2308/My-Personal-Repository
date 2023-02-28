@@ -1,166 +1,48 @@
 
-# Frontend Dev - UI Designer
+# Frontend Developer - UI Designer
 
-> Hey there! 😁 I am a multimedia engineer with experience in frontend development and interface design. I have developed skills to create digital content with a critical and objective vision, which I apply in my projects.
-> 
+> Hey there! 😁 I am a multimedia engineer with experience in frontend development and interface design. I have developed skills to create digital content with a critical and objective vision, which I apply in my projects. Using libraries such as ReactJS and VueJS.
 
-## Contact
+| 💎 Skills                    | ⚙ Softwares and Languages |
+| -----------               | ----------- |
+| 📷 Photography               | 🏆 HTML - CSS  |
+| 💻 Frontend Develop          | 🏆 JavaScript  |
+| 📽 Photo and Video editing    | 🏆 ReactJS     |
+| 🧊 3D Modeling               | 🏆 VueJS       |
+| 📚 UX / UI Design            | 🏆 Figma       |
+| 🎨 Drawing                  | 🏆 Suite Adobe |
+| 🎈 Animation                 | 🏆 Sass        |
 
----
 
-### Email
-<aside>
-semartinezc23@gmail.com
-</aside>
-
-### LinkedIn
-<aside>
-sergio-martinez-cardenas
-</aside>
-
-## Education
-
----
-
-### Nicolás Buenaventura School
-
-High School | 2006 - 2017
-
-### Universidad Militar Nueva Granada
-
-Multimedia Engineer | 2018 - 2022
-
-## Skills
-
----
-
-<aside>
-📸 Photography
-
-</aside>
-
-<aside>
-💻 Frontend Develop
-
-</aside>
-
-<aside>
-📽️ Photo and video editing
-
-</aside>
-
-<aside>
-🧊 3D Modeling
-
-</aside>
-
-<aside>
-📗 UX / UI Design
-
-</aside>
-
-<aside>
-🎨 Drawing
-
-</aside>
-
-## Softwares
-
----
-
-<aside>
-🌐 HTML - CSS
-
-</aside>
-
-<aside>
-✅ JavaScript
-</aside>
-
-<aside>
-✅ React.JS
-</aside>
-
-<aside>
-✅ Vue.JS
-</aside>
-
-<aside>
-✅ Figma
-</aside>
-
-<aside>
-✅ Suite Adobe
-
-</aside>
-
-<aside>
-✅ Sass
-
-</aside>
-
-<aside>
-✅ Php
-</aside>
-
-## Languages
-
----
-
-<aside>
-🇨🇴 Spanish (Native)
-</aside>
-
-<aside>
-🇺🇸 English (B1 - Intermediate)
-</aside>
-
-## Projects
-
----
-
-### 20 years Multimedia engineering
-
-May. 2021 - Jul. 2021 | UMNG
-
-- Graphic Designer, making multiples mockups for website, visual style and iconography.
-- Frontend Developer, using HTML, CSS, BootStrap and JavaScript.
+## 📄 Featured projects
 
 ### Ferriel Web
+*Feb. 2022 - May. 2022 | UMNG*
 
-Feb. 2022 - May. 2022 | UMNG
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4a7554150069589.62f317d98b6c5.jpg" alt= “” width="20%">
 
 - Virtual Museum developer, implementing 3D elements, animations and user interactions.
 - ***Tech Stack:***
-    - *VueJS 2.6.11*
-    - *ThreeJS 0.139.2*
+    - ⭐ *VueJS 2.6.11*
+    - ⭐ *ThreeJS 0.139.2*
 
-### Festival Musical Landing Page
-
-2022 | UDEMY
-
-- Frontend Developer, fictional festival musical landing page, applying responsive design and web image optimization.
-- ***Tech Stack:***
-    - *HTML5*
-    - *Gulp 4.0.2*
-    - *Sass 1.49.9*
-
-### Weather consult
-
-2022 | Platzi
-
-- Website develop for weather consult any in city and UI Design on Figma.
-- ***Tech Stack:***
-    - *HTML5 - CSS3*
-    - JavaScript
-    - API OpenWeather
+#### Here you can see the [repository](https://github.com/SergioAlex2308/ProyectoFerriel2.0-Aplicaciones).
 
 ### ToDo Machine
+*2023 | Platzi*
 
-2023 | Platzi
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/7d564b164340927.63f52bbf59bac.png" alt= “” width="20%">
 
 - Frontend Developer and UI designer making use responsive design.
 - ***Tech Stack:***
-    - React 18.2.0
-    - Sass 1.58.0
-    - Figma
+    - ⭐ *React 18.2.0*
+    - ⭐ *Sass 1.58.0*
+    - ⭐ *Figma*
+
+#### Here you can see the [repository](https://github.com/SergioAlex2308/ToDo-List-React).
+
+
+## Contact 
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sergiomartinez49)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-martinez-cardenas/)
+
